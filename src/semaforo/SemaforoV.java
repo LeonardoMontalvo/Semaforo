@@ -40,7 +40,7 @@ public class SemaforoV extends javax.swing.JFrame {
 
         lblSemaforo.setBackground(new java.awt.Color(255, 255, 255));
         lblSemaforo.setForeground(new java.awt.Color(255, 255, 255));
-        lblSemaforo.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagenes/semaforo rojo.jpg"))); // NOI18N
+        lblSemaforo.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagenes/Captura de pantalla 2023-11-10 223019.png"))); // NOI18N
         getContentPane().add(lblSemaforo, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 0, 290, 600));
 
         btnCambiar.setText("CAMBIAR");
